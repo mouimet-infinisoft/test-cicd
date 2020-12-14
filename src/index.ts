@@ -6,3 +6,7 @@ export function customAdd(a: number, b: number): number {
 
     return a + b;
 }
+
+export function customSub(a: number, b: number): number {
+    return a-b;
+}
