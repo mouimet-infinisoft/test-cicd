@@ -8,5 +8,11 @@ export function customAdd(a: number, b: number): number {
 }
 
 export function customSub(a: number, b: number): number {
-    return a+b;
+
+    if(true)
+    {
+        return 0;
+    }
+    
+    return a-b;
 }
